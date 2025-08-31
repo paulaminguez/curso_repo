@@ -9,6 +9,7 @@ def print_hi(name):
     print(f'Hi, {name}. Esto es nuevo. Si lo guardo qué')  # Press ⌘F8 to toggle the breakpoint.
     print("linea 2")
     print("linea 3")
+    print("esta linea la acabo de añadir es una prueba")
 
 
 # Press the green button in the gutter to run the script.
