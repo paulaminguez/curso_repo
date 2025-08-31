@@ -10,7 +10,7 @@ def print_hi(name):
     print("linea 2")
     print("linea 3")
     print("esta linea la acabo de añadir es una prueba")
-    print("otra mas")
+    print("esto es una prueba para ver que los cambios se sincronizan")
 
 
 # Press the green button in the gutter to run the script.
